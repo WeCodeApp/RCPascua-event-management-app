@@ -1,5 +1,5 @@
-**using pycharm or VSCode IDE**
-run the script.py to generate 1 Million event data and store in the generated db.json
+**Using Pycharm or VSCode IDE**
+run the script.py to generate 1 Million event data and to store in the generated db.json
 copy the db.json to event-management-app/data folder
 
 # event-management-app
