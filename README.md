@@ -2,6 +2,39 @@
 -->Run the script.py to generate 1 Million event data and to store in the generated db.json
 -->Copy the db.json to event-management-app/data folder
 
+**Harcoded User Credentials**
+
+"users": [
+    {
+      "id": 10000000025435,
+      "username": "admin",
+      "password": "admin123",
+      "name": "Ramoncito Pascua",
+      "role": 1
+    },
+    {
+      "id": 10000000000001,
+      "username": "user1",
+      "password": "user1",
+      "name": "Gabriel Del Mundo",
+      "role": 2
+    },
+    {
+      "id": 10000000000002,
+      "username": "user2",
+      "password": "user2",
+      "name": "Jerick Atchico",
+      "role": 2
+    },
+    {
+      "id": 10000000000003,
+      "username": "user3",
+      "password": "user3",
+      "name": "Allen Garcia",
+      "role": 2
+    }
+  ]
+
 # event-management-app
 
 This template should help get you started developing with Vue 3 in Vite.
