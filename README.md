@@ -1,3 +1,7 @@
+**using pycharm or VSCode IDE**
+run the script.py to generate 1 Million event data and store in the generated db.json
+copy the db.json to event-management-app/data folder
+
 # event-management-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -31,7 +35,6 @@ npm run dev
 ```sh
 npm run build
 ```
-
 
 event-management-app/
 ├── data/
